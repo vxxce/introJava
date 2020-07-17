@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="1410_GenericCollections:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/1410_GenericCollections_jar</output-path>
+    <root id="archive" name="1410_GenericCollections.jar">
+      <element id="module-output" name="1410_GenericCollections" />
+      <element id="module-source" name="1410_GenericCollections" />
+      <element id="module-test-output" name="1410_GenericCollections" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/test" />
+    </root>
+  </artifact>
+</component>
